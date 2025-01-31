@@ -13,7 +13,7 @@
 - Cura: `START_PRINT TEMP={material_bed_temperature_layer_0}`
 - IdeaMaker: `START_PRINT TEMP={bed_temperature}`
 
-## 📥 Die GitHub-Repository als ZIP-Datei herunterladen  
+## 📥 Die GitHub-Repository als ZIP-Datei herunterladen:  
 (Gehe ggf. zum Root-Verzeichnis des Repositories, indem du auf den „Code“-Tab oben klickst.)
 
 1. **Klicke auf den grünen Button „Code“ (oben rechts).**  
